@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewSkills</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAVeO89jFIIbXA-0XKXvxKulqA_aT7lAv8</string>
+    <string name="web_client_id">228997777581-coch7sv2j0ofvbkvo92u6f4cl3lj6hlc.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1161827310981745</string>
+    <string name="fb_login_protocol_scheme">fb1161827310981745</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "228997777581",
+    "project_id": "newskills-de6d4",
+    "storage_bucket": "newskills-de6d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228997777581:android:8a6acb69cd45b45ea95e24",
+        "android_client_info": {
+          "package_name": "com.omnisoft.newskills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228997777581-6af1n6560qd07miofjeanjj2uhimds8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omnisoft.newskills",
+            "certificate_hash": "07d7f8f1726f5391f4479af0b20619c7912f51c9"
+          }
+        },
+        {
+          "client_id": "228997777581-coch7sv2j0ofvbkvo92u6f4cl3lj6hlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk32h_nvrnjown3kNXnp1ZpR6Ypzn_lR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228997777581-coch7sv2j0ofvbkvo92u6f4cl3lj6hlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
